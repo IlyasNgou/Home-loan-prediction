@@ -6,8 +6,10 @@ This Python project uses machine learning to predict loan approvals. By analyzin
 Dream Housing Finance, a home loan company, seeks to automate loan eligibility assessments. They want to analyze online application data like income, credit history, and marital status to identify ideal customer segments for targeted marketing. This translates to a supervised binary classification problem. Here, a model learns from historical data (labeled with approval/rejection) to predict future loan approvals based on new applicant information. Supervised learning leverages labeled data, making it distinct from unsupervised learning. Binary classification focuses on predicting one of two outcomes (approved/not approved) unlike multiclass classification which deals with three or more categories. Loan prediction is a crucial problem for banks, and a well-trained model can significantly streamline the loan application process.
 
 ### About Data 
--Gender : Male/ Female.
--Married : Applicant married (Y/N).
+-Gender 
+-Married 
+
+: Applicant married (Y/N)
 -Dependents: Number of dependents
 -Education: Applicant Education (Graduate/ Under Graduate)
 -Self_Employed: Self employed (Y/N)
