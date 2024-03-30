@@ -31,7 +31,10 @@ Dream Housing Finance, a home loan company, seeks to automate loan eligibility a
 -Loan_Status: Loan approved (Y/N)
 
 
-
-
+### Volunteer Side
+- **User Profiles**: Volunteers can create profiles detailing their skills, interests, and availability.
+- **Search and Filter**: Easily search for volunteering opportunities based on location, interests, and availability.
+- **Matching Algorithm**: An algorithm suggests volunteering opportunities based on user profiles and preferences.
+- **Review and Rating System**: Volunteers can rate and review their experiences, helping others make informed decisions.
 
 
