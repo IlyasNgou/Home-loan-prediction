@@ -8,33 +8,18 @@ Dream Housing Finance, a home loan company, seeks to automate loan eligibility a
 ### About Data 
 - **Gender**: Male/ Female.
 - **Married**: Applicant married (Y/N).
-- **User Profiles**: Volunteers can create profiles detailing their skills, interests, and availability.
-
--Dependents: Number of dependents
-
--Education: Applicant Education (Graduate/ Under Graduate)
-
--Self_Employed: Self employed (Y/N)
-
--ApplicantIncome: Applicant income
-
--CoapplicantIncome: Coapplicant income
-
--LoanAmount: Loan amount in thousands
-
--Loan_Amount_Term: Term of loan in months
-
--Credit_History: credit history meets guidelines
-
--Property_Area: Urban/ Semi Urban/ Rural
-
--Loan_Status: Loan approved (Y/N)
+- **Dependents**: Number of dependents.
+- **Education**: Applicant Education (Graduate/ Under Graduate).
+- **Self_Employed**: Self employed (Y/N).
+- **ApplicantIncome**: Applicant income.
+- **CoapplicantIncome**: Coapplicant income.
+- **LoanAmount**: Loan amount in thousands.
+- **Loan_Amount_Term**: Term of loan in months.
+- **Credit_History**: credit history meets guidelines.
+- **Property_Area**: Urban/ Semi Urban/ Rural.
+- **Loan_Status**: Loan approved (Y/N).
 
 
-### Volunteer Side
-- **User Profiles**: Volunteers can create profiles detailing their skills, interests, and availability.
-- **Search and Filter**: Easily search for volunteering opportunities based on location, interests, and availability.
-- **Matching Algorithm**: An algorithm suggests volunteering opportunities based on user profiles and preferences.
-- **Review and Rating System**: Volunteers can rate and review their experiences, helping others make informed decisions.
+
 
 
